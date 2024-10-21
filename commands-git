@@ -1,9 +1,9 @@
 pour cloner un repository il faut aller sur son profil github:
 1 aller dans la section "repository" et ajouter "add:"
 2 on nome le dossier et créer
-
 3 en haut à droite sur "code" on copie le code pour le cloner
 dans le terminal afin que le dossier sur github se mette en lien avec le git local
+
 pour PUSH notre travail sur notre compte distant github:
 1 on ouvre un terminal
 2 git status (pour être sûr d'être sur le bon dossier)
@@ -11,3 +11,5 @@ pour PUSH notre travail sur notre compte distant github:
 4 git commit -m"" pour y mettre une note de la modification en question. cela permet
 la prochaine fois de ce souvenir ou l'on s'était arrété ou pour une autre personne qui aurait besoin de savoir"
 5 git push
+
+pour pull du compte distant github et le mettre sur le local git on enregistre "commit changes" et on pull
