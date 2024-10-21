@@ -6,4 +6,9 @@ Les 3 commandes de push :
 - git commit -m "commentaire du commit"
 - git push
 
+Pour récupérer les modifications sur le repository :
+- git pull
 
+Créer une branche et basculer dessus :
+- git checkout -b add-create-branch-
+command
